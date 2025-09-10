@@ -1,7 +1,7 @@
 nav ul {
   list-style-type: none;   /* removes bullets */
   margin: 0px;
-  padding: 20px 20px 20px 1000px;
+  padding: 20px 20px 20px 700px;
   display: flex;           /* places items side by side */
   background-color: purple;  /* dark background */
   text-align: center;
