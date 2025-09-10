@@ -1,0 +1,25 @@
+nav ul {
+  list-style-type: none;   /* removes bullets */
+  margin: 0px;
+  padding: 20px 20px 20px 1000px;
+  display: flex;           /* places items side by side */
+  background-color: purple;  /* dark background */
+  text-align: center;
+}
+
+nav ul li {
+  margin: 0;
+}
+
+nav ul li a {
+  box-sizing: border-box;
+  padding: 14px 20px;
+
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+}
+
+nav ul li a:hover {
+  background-color: orange;
+}
